@@ -1,0 +1,3 @@
+﻿
+Neste projeto será executado algumas tarefas de auditoria e limpeza de dados, disponível na plataforma colaborativa OpenStreetMap (Mapzen), da Região Metropolitana da cidade de São Paulo, utilizando como ferramentas a linguagem Python e o banco de dados MongoDB.
+O OpenStreetMap é um projeto aberto, gratuito, concorrente direto do Google Maps e todos podem usá-lo e editá-lo como quiserem. Por esse motivo, erros como abreviação de nomes de ruas, CEP's incompletos e identificações errôneas são comuns de serem encontrados. Este projeto tem por objetivo identificar e corrigir alguns desses problemas e transformá-los em um padrão mais estruturado.
